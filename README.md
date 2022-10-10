@@ -4,7 +4,9 @@ Hi 👋 My name is Jack Wheatley
 Software Engineer - Student At BYU
 ----------------------------------
 
-Ever since I was a child I've had a deep desire to learn and solve problems. Some of my favorite memories growing up were playing games such as Settlers, Ticket to Ride, and competing with my mom to finish a Sudoku puzzle. The more strategy the game had the more I enjoyed it. As I've grown up that desire to learn and solve problems has shaped who I have become and the career I hope to have. When I started college I was split between majoring in finance, Business Strategy, or Economics. However, while working as a Research Assistant in the Economics Department they asked me to learn Python. I immediately caught the programming bug and after taking 1 Computer Science class I knew exactly what I wanted to study. Over the past two years I've learned that what draws me to programming is the ability to be given a problem and then find a solution to make it better, the never ending learning cycle, and the nitty-gritty hard work that goes into designing and implementing a solution. Outside of software development I love to ski, bike, hike, and golf. I'm a big believer in working hard and playing hard.
+Ever since I was a child I've had a deep desire to learn and solve problems. Some of my favorite memories growing up were playing games such as Settlers, Ticket to Ride, and competing with my mom to finish a Sudoku puzzle. The more strategy the game had the more I enjoyed it. As I've grown up that desire to learn and solve problems has shaped who I have become and the career I hope to have. When I started college I was split between majoring in finance, Business Strategy, or Economics. However, while working as a Research Assistant in the Economics Department they asked me to learn Python. I immediately caught the programming bug and after taking 1 Computer Science class I knew exactly what I wanted to study. Over the past two years I've learned that what draws me to programming is the ability to be given a problem and then find a solution to make it better, the never ending learning cycle, and the nitty-gritty hard work that goes into designing and implementing a solution.
+
+Outside of software development I love to ski, bike, hike, and golf. I'm a big believer in working hard and playing hard.
 
 * 🌍  I'm based in Provo, Utah
 * ✉️  You can contact me at [jdwheatley22@gmail.com](mailto:jdwheatley22@gmail.com)
@@ -44,6 +46,5 @@ Ever since I was a child I've had a deep desire to learn and solve problems. Som
 
 <a href="http://www.github.com/jackdw22"><img src="https://github-readme-stats.vercel.app/api?username=jackdw22&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jackdw22's GitHub stats" /></a>
 
-<a href="http://www.github.com/jackdw22"><img src="https://activity-graph.herokuapp.com/graph?username=jackdw22&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/jackdw22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackdw22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
