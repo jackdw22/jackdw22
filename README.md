@@ -10,9 +10,8 @@ Outside of software development I love to ski, bike, hike, and golf. I'm a big b
 
 * 🌍  I'm based in Provo, Utah
 * ✉️  You can contact me at [jdwheatley22@gmail.com](mailto:jdwheatley22@gmail.com)
-* 🚀  I'm currently working on [Devote](https://usedevote.com/) and [University Impact](https://www.uitripledaf.org/)
-* 🧠  I'm learning Next.js / MySQL
-* ⚡  Looking for internships next summer anywhere in the states or in Poland
+* 🚀  I'm currently working on [Devote](https://usedevote.com/)
+* 🧠  I'm learning Next.js / MySQL / React Native 
 
 ### Skills
 
