@@ -6,7 +6,9 @@ Software Engineer - Student At BYU
 
 Ever since I was a child I've had a deep desire to learn and solve problems. Some of my favorite memories growing up were playing games such as Settlers, Ticket to Ride, and competing with my mom to finish a Sudoku puzzle. The more strategy the game had the more I enjoyed it. As I've grown up that desire to learn and solve problems has shaped who I have become and the career I hope to have. When I started college I was split between majoring in finance, Business Strategy, or Economics. However, while working as a Research Assistant in the Economics Department they asked me to learn Python. I immediately caught the programming bug and after taking 1 Computer Science class I knew exactly what I wanted to study. Over the past two years I've learned that what draws me to programming is the ability to be given a problem and then find a solution to make it better, the never ending learning cycle, and the nitty-gritty hard work that goes into designing and implementing a solution.
 
-Outside of software development I love to ski, bike, hike, and golf. I'm a big believer in working hard and playing hard.
+Recently, I've been working on Devote, a financial platform for nonprofits. I and one other engineer have created a card and expense management program specifically for the needs of nonprofits. 
+
+Outside of software development, I love to ski, bike, hike, and golf. I'm a big believer in working hard and playing hard.
 
 * 🌍  I'm based in Provo, Utah
 * ✉️  You can contact me at [jdwheatley22@gmail.com](mailto:jdwheatley22@gmail.com)
